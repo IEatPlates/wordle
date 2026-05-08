@@ -3,7 +3,7 @@ name: Publish
 on:
   push:
     branches: [main]
-
+# yo wsg fr
 jobs:
   deploy:
     runs-on: ubuntu-latest
